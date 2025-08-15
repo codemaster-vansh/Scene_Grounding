@@ -1,9 +1,11 @@
 
 torch>=1.9.0
+torchvision
 transformers
 numpy
 opencv-python
 Pillow
+tqdm
 matplotlib
 scipy
 scikit-learn
