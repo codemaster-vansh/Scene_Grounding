@@ -1,0 +1,12 @@
+
+torch>=1.9.0
+transformers
+numpy
+opencv-python
+Pillow
+matplotlib
+scipy
+scikit-learn
+setuptools
+
+# Add more based on your project specifics
