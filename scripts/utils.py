@@ -111,11 +111,6 @@ def visualize_prediction(model, image_path, phrase, tokenizer, device, img_size=
 
     # 1. Load & preprocess image
     img = Image.open(image_path).convert("RGB")
-    transform = torch.nn.Sequential(
-        # Use your dataset's transforms here; example:
-        # Resize and Normalize as used during training
-        # Note: torchvision.transforms can be used instead, but for torch.nn.Sequential you need torchscript-compatible modules
-    )
     # If using torchvision transforms
     from torchvision import transforms
     tf = transforms.Compose([
