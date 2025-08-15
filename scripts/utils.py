@@ -1,3 +1,6 @@
+"""
+scripts/utils.py
+"""
 import json
 from typing import Tuple
 from PIL import Image
