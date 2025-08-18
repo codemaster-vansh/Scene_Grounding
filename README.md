@@ -58,7 +58,7 @@ The repository contains
 
 - [Grounding Dino](https://arxiv.org/abs/2303.05499)
 
-- [MDETR](https://arxiv.org/abs/2203.03605)
+- [MDETR](https://arxiv.org/abs/2104.12763)
 
 ---
 
